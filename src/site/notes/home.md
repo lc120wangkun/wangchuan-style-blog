@@ -12,14 +12,13 @@
 
 ### 🚀 最新思考 (Recent Essays)
 
-- [[Hello World\|Hello World]]
-*(上面这一行要改成你实际存在的笔记名，否则链接点不开)*
 - [[关于长期主义的思考\|关于长期主义的思考]]
+
 ---
 
 ### 📮 联系方式
 
-- **小红书**：[点击跳转](https://www.xiaohongshu.com) 
+- **小红书**：[点击跳转](https://www.xiaohongshu.com/your_profile) 
 - **Email**: `yourname@gmail.com`
 
 ---
