@@ -1,36 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"王昆的思考空间","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Wang Kun","tags":["gardenEntry"]}
 ---
 
+---
+# Wang Kun
 
-# 👋 王昆 (Wang Kun)
+纯净素食者。长期主义践行者。
+在这个噪杂的时代，寻找非对称的投资机会与内心的宁静。
 
-**纯净素食者** / 思考者 / 长期主义践行者。
-
-**Why Here?**
-微信太吵，信息太碎。
-我需要一个安静的地方，像农夫一样耕耘我的思想。
-
-**My Focus:**
-- **Tech**: 科技思考与 AI 变革
-- **Investment**: 投资逻辑与非对称风险
-- **Wisdom**: 东西方生命智慧
-
-👉 **[[关于王昆\|点击这里，了解详细的我 (About Me)]]**
+[关于我 (About)](/关于王昆)  |  [联系方式 (Contact)](#Connect)
 
 ---
 
-### 🚀 最新思考 (Essays)
+### 2025
 
-- [[关于长期主义的思考\|关于长期主义的思考]]
+*   [[关于长期主义的思考\|关于长期主义的思考]]
+    <small>2025-01-25 · 投资逻辑</small>
+
+*   [[这里放你的第二篇文章标题\|这里放你的第二篇文章标题]]
+    <small>2025-01-20 · 科技思考</small>
+
+### 2024
+
+*   [[这里放以前的文章\|这里放以前的文章]]
+    <small>2024-12-30 · 随笔</small>
 
 ---
 
-### 📮 Connect
+### Connect
 
-- **Email**: `wulin5241@gmail.com`
-- **公众号**: [这里写你的公众号名字]
-- **小红书**: [这里写你的小红书ID或链接]
+如果您对我的文章有共鸣，欢迎通过邮件深度交流。我不使用社交媒体私信。
+
+*   **Email**: `wulin5241@gmail.com`
+*   **WeChat**: [你的公众号名称]
+*   **RedNote**: [你的小红书ID]
 
 ---
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+<small>© 2025 Wang Kun. All rights reserved.</small>
